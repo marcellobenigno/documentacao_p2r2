@@ -43,4 +43,4 @@
 
 [101]:algoritmo/alg.md
 
-[102]:algoritmo/10_Relatorio_de_Andamento.md
+[102]:relatorio_parcial_01.md
