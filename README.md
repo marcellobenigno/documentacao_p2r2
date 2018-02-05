@@ -24,6 +24,11 @@
 #### [Ajuste do algoritmo][101]
 
 
+## Relatório Parcial 01
+
+#### [Relatório Parcial 01][102]
+
+
 
 [1]:01_areas_contaminadas_passivos_ambientais.md
 
@@ -37,3 +42,5 @@
 [100]:bd/bd.md
 
 [101]:algoritmo/alg.md
+
+[102]:algoritmo/10_Relatorio_de_Andamento.md
