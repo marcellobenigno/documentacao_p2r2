@@ -1,9 +1,8 @@
 # Relatório de Andamento
 
-Ressalta-se que nesta etapa de desenvolvimento do sistema, os esforços estão sendo concentrados na elaboração dos formulários que compõem o sistema, e dessa forma, a parte relacionada ao embelzamento e design do sistema ainda não está sendo desenvolvida.
+Ressalta-se que nesta etapa de desenvolvimento do sistema, os esforços estão sendo concentrados na elaboração dos formulários que compõem o sistema, e dessa forma, a parte relacionada ao embelezamento e design do sistema ainda não está sendo desenvolvida.
 
 Serão listados abaixos as funcionalidades já existentes no novo sistema P2R2.
-
 
 
 ## 1. Tela de Login do Sistema
@@ -12,11 +11,11 @@ Serão listados abaixos as funcionalidades já existentes no novo sistema P2R2.
 
 Através desta tela os usuários que terão acesso poderão se logar no sistema para efetuar as mais diversas operações.
 
-Ainda não forma implementadas as opções de realização de cadastro e recuperação de senha, já que o objetivo nesse momento foi criar no sistema os itens que compõem a aplicação **Áreas Contamindadas / Passivos Ambientais**, que sera descrita a seguir neste documento. 	
+Ainda não foram implementadas as opções de realização de cadastro e recuperação de senha, já que o objetivo nesse momento foi criar no sistema os itens que compõem a aplicação **Áreas Contaminadas / Passivos Ambientais**, que será descrita a seguir neste documento. 	
 
 ## 2. Painel Administrativo (Dashboard)
 
-Após o login no sistema, o usuário autenticado verá o painel admininstrativo, onde é possível escolher por onde será feita a navegação do sistema. Ressaltasse que apenas os usuários autenticados poderão realizar alterações sobre os temas a seguir.
+Após o login no sistema, o usuário autenticado verá o painel administrativo, onde é possível escolher por onde será feita a navegação do sistema. Ressaltasse que apenas os usuários autenticados poderão realizar alterações sobre os temas a seguir.
 
 ![image](new/dash.png)
 
@@ -38,7 +37,7 @@ O Painel administrativo terá seu layout separado por temas, sendo eles os segui
 7. Unidades de Respostas a Acidentes: contempla todas as entidades capazes de prestar serviços no atendimento a um eventual acidente/incidente envolvendo produto químico
 
 
-## 3. Áreas Contamindadas / Passivos Ambientais
+## 3. Áreas Contaminadas / Passivos Ambientais
 
 O usuário ao clicar neste item do sistema, verá a tela abaixo:
 
@@ -47,7 +46,7 @@ O usuário ao clicar neste item do sistema, verá a tela abaixo:
 
 ### 3.1 - Dados Gerais:
 
-Nesta tela serão preenchidos os dados gerais referented ao cadastro das áreas contaminadas.
+Nesta tela serão preenchidos os dados gerais referentes ao cadastro das áreas contaminadas.
 
 ![image](new/ex_areas.png)
 
@@ -55,5 +54,6 @@ Nesta tela serão preenchidos os dados gerais referented ao cadastro das áreas 
 Uma vez preenchidos os dados,
 
 ![image](new/ex2.png)
+
 
 
