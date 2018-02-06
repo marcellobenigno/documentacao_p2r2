@@ -22,20 +22,60 @@ Após o login no sistema, o usuário autenticado verá o painel administrativo, 
 O Painel administrativo terá seu layout separado por temas, sendo eles os seguintes:
 
 
-1. Áreas Contamindadas / Passivos Ambientais: este item do sistema diz respeito a caracterização dos locais de disposição (aterros e lixões) de resíduos sólidos identificados e dos seus respectivos passivos ambientais;
-2. Atividades Comerciais e Industriais: diz respeito ao cadastramento de atividades comerciais e industriais que envolvem a manipulação de produtos químicos perigosos;
-3. Histórico de Ocorrência de Acidentes: são os dados sobre data e localização dos acidentes ambientais
-4. Sistema de Transportes Lineares: diz respeito aos dados das empresas de transporte de substâncias perigosas de forma linear
-5. Sítios Frágeis e Vulneráveis: são os dados referentes aos seguintes elementos:
-	* Assentamento humano
-	* Captação de Água
-	* Recarga de Aquífero
-	* Recurso Hídrico Representativo
-	* unidades de Conservação
-	* Área de Proteção de Mananciais
-6. Transporte Terrestre de Substâncias perigosas: cadastro de atividades industriais e comerciais que envolvem o transporte de produtos químicos perigosos
-7. Unidades de Respostas a Acidentes: contempla todas as entidades capazes de prestar serviços no atendimento a um eventual acidente/incidente envolvendo produto químico
+1. **Áreas Contamindadas / Passivos Ambientais**: este item do sistema diz respeito a caracterização dos locais de disposição (aterros e lixões) de resíduos sólidos identificados e dos seus respectivos passivos ambientais;
+2. **Atividades Comerciais e Industriais**: diz respeito ao cadastramento de atividades comerciais e industriais que envolvem a manipulação de produtos químicos perigosos;
+3. **Histórico de Ocorrência de Acidentes**: são os dados sobre data e localização dos acidentes ambientais;
+4. **Sistema de Transportes Lineares**: diz respeito aos dados das empresas de transporte de substâncias perigosas de forma linear;
+5. **Transporte Terrestre de Substâncias perigosas**: cadastro de atividades industriais e comerciais que envolvem o transporte de produtos químicos perigosos;
+6. **Unidades de Respostas a Acidentes**: contempla todas as entidades capazes de prestar serviços no atendimento a um eventual acidente/incidente envolvendo produto químico
+7. **Sítios Frágeis e Vulneráveis**: são os dados referentes aos seguintes elementos do sistema:
+	* Assentamento humano;
+	* Captação de Água;
+	* Recarga de Aquífero;
+	* Recurso Hídrico Representativo;
+	* unidades de Conservação;
+	* Área de Proteção de Mananciais.
 
+
+8. **Tabelas Auxiliares**: são todas as outras tabelas auxiliares, que guardam os de tipos de dados das tabelas que compõem o sistema, atualmente, o sistema conta com as seguintes tabelas auxiliares:
+
+
+* Atividades Desenvolvidas: são as atividades desenvolidas pelas empresas (produção de cimento, papel e celulose, dentre outras);
+
+![image](new/ativ.png)
+
+* Fontes de Contaminação: tipos de fontes de contaminação (galpaão de armazenamento, Piscina de metais pesados, etc.);
+
+![image](new/fonte.png)
+
+* Meio Impactados: tipos de meios impactados (ar, biota, solo, etc.);
+
+![image](new/meio.png)
+	
+* Queixas mais frequentes em problemas de saúde humana: contém os tipos de queixas (problemas dermatológicos, digestivos, etc.);
+
+![image](new/queixas.png)
+	
+* Fichas dos protudos químicos: contém as fichas dos produtos químicos, bem como a sua descrição;
+
+![image](new/fichas.png)
+
+Exemplo de uma ficha: 
+
+![image](new/fichas_2.png)
+
+* Relação dos produtos perigosos: contém a relação dos produtos perigosos, sua classe de risco e associado a ele, a respectiva ficha do produto químico;
+
+![image](new/relacao.png)
+	
+* Municípios: contém a relação dos municípios pernambucanos.
+
+![image](new/municipios.png)
+
+![image](new/muni_detalhe.png)
+
+
+Um dos seis itens que compõem os itens principais do sistema, **Áreas Contamindadas / Passivos Ambientais** encontra-se finalizado, sendo descrito a seguir:
 
 ## 3. Áreas Contaminadas / Passivos Ambientais
 
