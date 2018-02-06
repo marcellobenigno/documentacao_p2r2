@@ -90,10 +90,53 @@ Nesta tela serão preenchidos os dados gerais referentes ao cadastro das áreas 
 
 ![image](new/ex_areas.png)
 
+Também é possível adicionar o local do acidente através da fixação de um marcador no mapa utilizando a API do Google Maps, estão disponíveis as opções de visualização das imagens e também do mapa de ruas.
 
-Uma vez preenchidos os dados,
+![image](new/ex_areas2.png)
+
+Uma vez preenchidos os dados, é possível filtrar (pesquisar) através dos valores contidos em qualquer uma das suas colunas, através do botão **pesquisar** mostrado na tela abaixo:
 
 ![image](new/ex2.png)
+
+### 3.2 - Meio Impactado:
+
+Uma vez cadastrado a aba de **Dados Gerais**, o próximo item a ser informado diz respeito ao **Meio Impactado** da área contaminada. As telas a seguir,
+
+![image](new/meio_impactado.png)
+
+continuação do formulário:
+
+![image](new/meio_2.png)
+
+
+### 3.3 - Produtos Químicos Envolvidos:
+
+Na sequência, o próximo item a ser cadastrado são os **Produtos Químicos Envolvidos**, o formulário abaixo mostra os campos a serem preenchidos:
+
+![image](new/produtos1.png)
+
+Nesta tela é possível escohles o nome do produto através do número ONU de referência do produto perigoso, como mostra a figura abaixo:
+
+![image](new/produtos2.png)
+
+
+### 3.4 - Resíduos Envolvidos:
+
+Também é possível cadastrar os resíduos envolvidos na(s) área(s) contaminada(s), através dos formulários a seguir:
+
+![image](new/produtos1.png)
+
+
+![image](new/produtos2.png)
+
+
+### 3.5 - Estruturas de Contenção e Instrumentos de Gestão Ambiental:
+
+Este formulário associa a área contaminada as informações de estruturas de contenção e instrumentos de gestão ambiental relacionadas a mesma.
+
+![image](new/estruturas_contencao.png)
+
+
 
 
 
