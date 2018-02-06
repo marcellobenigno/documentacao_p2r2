@@ -92,7 +92,7 @@ Nesta tela serão preenchidos os dados gerais referentes ao cadastro das áreas 
 
 Também é possível adicionar o local do acidente através da fixação de um marcador no mapa utilizando a API do Google Maps, estão disponíveis as opções de visualização das imagens e também do mapa de ruas.
 
-![image](new/ex_areas2.png)
+![image](new/ex_areas_2.png)
 
 Uma vez preenchidos os dados, é possível filtrar (pesquisar) através dos valores contidos em qualquer uma das suas colunas, através do botão **pesquisar** mostrado na tela abaixo:
 
