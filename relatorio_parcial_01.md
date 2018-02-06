@@ -40,23 +40,23 @@ O Painel administrativo terá seu layout separado por temas, sendo eles os segui
 8. **Tabelas Auxiliares**: são todas as outras tabelas auxiliares, que guardam os de tipos de dados das tabelas que compõem o sistema, atualmente, o sistema conta com as seguintes tabelas auxiliares:
 
 
-* Atividades Desenvolvidas: são as atividades desenvolidas pelas empresas (produção de cimento, papel e celulose, dentre outras);
+* **Atividades Desenvolvidas**: são as atividades desenvolidas pelas empresas (produção de cimento, papel e celulose, dentre outras);
 
 ![image](new/ativ.png)
 
-* Fontes de Contaminação: tipos de fontes de contaminação (galpaão de armazenamento, Piscina de metais pesados, etc.);
+* **Fontes de Contaminação**: tipos de fontes de contaminação (galpaão de armazenamento, Piscina de metais pesados, etc.);
 
 ![image](new/fonte.png)
 
-* Meio Impactados: tipos de meios impactados (ar, biota, solo, etc.);
+* **Meio Impactados**: tipos de meios impactados (ar, biota, solo, etc.);
 
 ![image](new/meio.png)
 	
-* Queixas mais frequentes em problemas de saúde humana: contém os tipos de queixas (problemas dermatológicos, digestivos, etc.);
+* **Queixas Mais Frequentes em Problemas de Saúde Humana**: contém os tipos de queixas (problemas dermatológicos, digestivos, etc.);
 
 ![image](new/queixas.png)
 	
-* Fichas dos protudos químicos: contém as fichas dos produtos químicos, bem como a sua descrição;
+* **Fichas dos Protudos Químicos**: contém as fichas dos produtos químicos, bem como a sua descrição;
 
 ![image](new/fichas.png)
 
@@ -64,11 +64,11 @@ Exemplo de uma ficha:
 
 ![image](new/fichas_2.png)
 
-* Relação dos produtos perigosos: contém a relação dos produtos perigosos, sua classe de risco e associado a ele, a respectiva ficha do produto químico;
+* **Relação dos Produtos Perigosos**: contém a relação dos produtos perigosos, sua classe de risco e associado a ele, a respectiva ficha do produto químico;
 
 ![image](new/relacao.png)
 	
-* Municípios: contém a relação dos municípios pernambucanos.
+* **Municípios**: contém a relação dos municípios pernambucanos.
 
 ![image](new/municipios.png)
 
